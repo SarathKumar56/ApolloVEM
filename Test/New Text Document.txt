@@ -1,0 +1,18 @@
+Public Repo details:
+GitHub > Public Repo/Remote Repo/Remote/Origin
+Git repo URL: https://github.com/SarathKumar56/ApolloVEM.git
+
+
+Local Copy details:
+Git Project > LocalCopy/Working version
+git Clone > Cloing Project to your local (one time)
+
+TO Do:
+a) Keep Public and Working copy are in Sync, Always!
+b) If someone else add/update/delete any file > then you should 'Pull'
+c) If you make any change in your local > then You should 'Commit' and 'Push'
+
+Main commands:
+git pull > Pull the latest changes from Public to local
+git commit > Move Created/updated/deleted files to staged and then hit commit
+Git Push > Pushing the committed(can be many) changes
